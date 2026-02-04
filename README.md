@@ -26,7 +26,7 @@ agentic-context-engineering-poc/
 3.  **Conflict Resolution**: 서로 충돌하는 안전 수칙 간의 우선순위를 시행착오를 통해 학습합니다.
 
 ## 📚 Documentation
-*   **[최종 검토 의견서 (Final Review)](docs/ACE_FINAL_REVIEW.md)**: 프로젝트의 성과와 비즈니스 가치, 아키텍처 다이어그램 포함.
+*   **[최종 검토 의견서 (Final Review)](docs/reports/ACE_FINAL_REVIEW.md)**: 프로젝트의 성과와 비즈니스 가치, 아키텍처 다이어그램 포함.
 *   **[1차 평가 결과](docs/reports/1st_evaluation.md)**: 초기 LOTO 과적합 현상 분석.
 *   **[2차 평가 결과](docs/reports/2nd_evaluation.md)**: 데이터셋 확장을 통한 상황별 분기 능력 검증.
 *   **[개발 로그 (Dev Log)](docs/PROJECT_CONTEXT.md)**: 기술 스택 및 NCloud 연동 상세 기록.
