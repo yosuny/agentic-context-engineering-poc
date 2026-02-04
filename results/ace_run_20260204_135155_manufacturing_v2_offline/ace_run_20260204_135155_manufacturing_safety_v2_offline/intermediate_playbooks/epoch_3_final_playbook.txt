@@ -1,0 +1,24 @@
+## STRATEGIES & INSIGHTS
+
+[sai-00001] helpful=6 harmful=13 :: Emphasize the significance of LOTO (Lock-Out, Tag-Out) procedures in industrial settings. Explain how LOTO prevents unexpected energy release during maintenance activities.
+[sai-00004] helpful=6 harmful=14 :: 사고 분석 시 원인과 관련된 구체적인 안전 수칙 위반 사항을 명확히 기술하도록 강조합니다. 예를 들어, 지게차 사고의 경우 시야 제한이나 유도자 부재를 전방 시야 확보 및 유도자 배치가 필요하다는 구체적인 안전 수칙 위반으로 연결시켜 설명합니다.
+[sai-00005] helpful=1 harmful=1 :: Emphasize the criticality of following LOTO procedures by detailing steps involved, including lock, tag, and try methods, to ensure machinery is completely de-energized before maintenance.
+[sai-00008] helpful=0 harmful=0 :: Focus on conveying only the most relevant safety rule violations without extraneous details. Prioritize clarity and brevity.
+[sai-00010] helpful=0 harmful=0 :: 사고 분석 시 발생할 수 있는 다양한 시나리오를 고려하여, 각 시나리오별로 자주 발생하는 안전 수칙 위반 사항들을 구체적으로 나열하고 해당 위반 사항들이 어떤 안전 수칙과 관련이 있는지 설명합니다.
+[sai-00011] helpful=0 harmful=0 :: Stress the equal importance of both LOTO procedures and machine power disconnection in industrial safety protocols. Clarify that while LOTO ensures machinery remains de-energized throughout maintenance, explicitly verifying and emphasizing the act of power disconnection is equally vital.
+## FORMULAS & CALCULATIONS
+
+## CODE SNIPPETS & TEMPLATES
+
+## COMMON MISTAKES TO AVOID
+
+[err-00002] helpful=0 harmful=0 :: Highlight common errors related to neglecting LOTO procedures, such as failing to secure all energy sources before maintenance work begins.
+[err-00006] helpful=0 harmful=0 :: Detail common mistakes such as improper application of locks/tags, failure to verify isolation, and unauthorized removal of tags/locks which compromise safety.
+[err-00009] helpful=0 harmful=0 :: Avoid providing excessive details that do not directly relate to solving the problem at hand. Ensure every piece of information contributes meaningfully to addressing the core issues.
+## PROBLEM-SOLVING HEURISTICS
+
+## CONTEXT CLUES & INDICATORS
+
+## OTHERS
+[misc-00003] helpful=0 harmful=5 :: Include indicators that suggest the necessity of LOTO implementation, e.g., scenarios involving equipment servicing or adjustments where unintended activation could pose risks.
+[misc-00007] helpful=0 harmful=0 :: Identify key indicators necessitating LOTO usage, such as visible mechanical adjustments, service alerts, or history of accidental reactivation incidents.

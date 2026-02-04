@@ -1,0 +1,16 @@
+## STRATEGIES & INSIGHTS
+
+[sai-00001] helpful=0 harmful=5 :: Emphasize the significance of LOTO (Lock-Out, Tag-Out) procedures in industrial settings. Explain how LOTO prevents unexpected energy release during maintenance activities.
+## FORMULAS & CALCULATIONS
+
+## CODE SNIPPETS & TEMPLATES
+
+## COMMON MISTAKES TO AVOID
+
+[err-00002] helpful=0 harmful=0 :: Highlight common errors related to neglecting LOTO procedures, such as failing to secure all energy sources before maintenance work begins.
+## PROBLEM-SOLVING HEURISTICS
+
+## CONTEXT CLUES & INDICATORS
+
+## OTHERS
+[misc-00003] helpful=0 harmful=0 :: Include indicators that suggest the necessity of LOTO implementation, e.g., scenarios involving equipment servicing or adjustments where unintended activation could pose risks.

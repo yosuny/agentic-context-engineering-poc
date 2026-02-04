@@ -1,0 +1,205 @@
+{
+  "best_accuracy": 0.0,
+  "results": [
+    {
+      "epoch": 1,
+      "step": 10,
+      "train_result": {
+        "pre_train_accuracy": 0.0,
+        "post_train_accuracy": 0.0
+      },
+      "val_result": {
+        "accuracy": 0.0,
+        "correct": 3,
+        "total": 15,
+        "no_answer": 0
+      },
+      "playbook_num_tokens": 184,
+      "playbook_length": 780,
+      "playbook_stats": {
+        "total_bullets": 3,
+        "high_performing": 0,
+        "problematic": 0,
+        "unused": 3,
+        "by_section": {
+          "STRATEGIES & INSIGHTS": {
+            "count": 1,
+            "helpful": 0,
+            "harmful": 0
+          },
+          "COMMON MISTAKES TO AVOID": {
+            "count": 1,
+            "helpful": 0,
+            "harmful": 0
+          },
+          "OTHERS": {
+            "count": 1,
+            "helpful": 0,
+            "harmful": 0
+          }
+        }
+      }
+    },
+    {
+      "epoch": 2,
+      "step": 10,
+      "train_result": {
+        "pre_train_accuracy": 0.0,
+        "post_train_accuracy": 0.0
+      },
+      "val_result": {
+        "accuracy": 0.0,
+        "correct": 7,
+        "total": 15,
+        "no_answer": 0
+      },
+      "playbook_num_tokens": 449,
+      "playbook_length": 1563,
+      "playbook_stats": {
+        "total_bullets": 7,
+        "high_performing": 0,
+        "problematic": 2,
+        "unused": 5,
+        "by_section": {
+          "STRATEGIES & INSIGHTS": {
+            "count": 3,
+            "helpful": 4,
+            "harmful": 11
+          },
+          "COMMON MISTAKES TO AVOID": {
+            "count": 2,
+            "helpful": 0,
+            "harmful": 0
+          },
+          "OTHERS": {
+            "count": 2,
+            "helpful": 0,
+            "harmful": 0
+          }
+        }
+      }
+    },
+    {
+      "epoch": 3,
+      "step": 10,
+      "train_result": {
+        "pre_train_accuracy": 0.0,
+        "post_train_accuracy": 0.0
+      },
+      "val_result": {
+        "accuracy": 0.0,
+        "correct": 5,
+        "total": 15,
+        "no_answer": 0
+      },
+      "playbook_num_tokens": 696,
+      "playbook_length": 2414,
+      "playbook_stats": {
+        "total_bullets": 11,
+        "high_performing": 0,
+        "problematic": 4,
+        "unused": 7,
+        "by_section": {
+          "STRATEGIES & INSIGHTS": {
+            "count": 6,
+            "helpful": 11,
+            "harmful": 25
+          },
+          "COMMON MISTAKES TO AVOID": {
+            "count": 3,
+            "helpful": 0,
+            "harmful": 0
+          },
+          "OTHERS": {
+            "count": 2,
+            "helpful": 0,
+            "harmful": 3
+          }
+        }
+      }
+    },
+    {
+      "epoch": 4,
+      "step": 10,
+      "train_result": {
+        "pre_train_accuracy": 0.0,
+        "post_train_accuracy": 0.0
+      },
+      "val_result": {
+        "accuracy": 0.0,
+        "correct": 5,
+        "total": 15,
+        "no_answer": 0
+      },
+      "playbook_num_tokens": 807,
+      "playbook_length": 2893,
+      "playbook_stats": {
+        "total_bullets": 13,
+        "high_performing": 0,
+        "problematic": 5,
+        "unused": 8,
+        "by_section": {
+          "STRATEGIES & INSIGHTS": {
+            "count": 8,
+            "helpful": 16,
+            "harmful": 35
+          },
+          "COMMON MISTAKES TO AVOID": {
+            "count": 3,
+            "helpful": 0,
+            "harmful": 0
+          },
+          "OTHERS": {
+            "count": 2,
+            "helpful": 0,
+            "harmful": 8
+          }
+        }
+      }
+    },
+    {
+      "epoch": 5,
+      "step": 10,
+      "train_result": {
+        "pre_train_accuracy": 0.0,
+        "post_train_accuracy": 0.0
+      },
+      "val_result": {
+        "accuracy": 0.0,
+        "correct": 3,
+        "total": 15,
+        "no_answer": 0
+      },
+      "playbook_num_tokens": 1053,
+      "playbook_length": 3324,
+      "playbook_stats": {
+        "total_bullets": 16,
+        "high_performing": 0,
+        "problematic": 7,
+        "unused": 9,
+        "by_section": {
+          "STRATEGIES & INSIGHTS": {
+            "count": 10,
+            "helpful": 23,
+            "harmful": 50
+          },
+          "FORMULAS & CALCULATIONS": {
+            "count": 1,
+            "helpful": 0,
+            "harmful": 0
+          },
+          "COMMON MISTAKES TO AVOID": {
+            "count": 3,
+            "helpful": 0,
+            "harmful": 0
+          },
+          "OTHERS": {
+            "count": 2,
+            "helpful": 1,
+            "harmful": 9
+          }
+        }
+      }
+    }
+  ]
+}

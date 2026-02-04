@@ -1,0 +1,17 @@
+{
+  "task_name": "manufacturing_safety_v2",
+  "mode": "offline",
+  "generator_model": "HCX-007",
+  "reflector_model": "HCX-007",
+  "curator_model": "HCX-007",
+  "config": {
+    "num_epochs": 5,
+    "max_num_rounds": 2,
+    "curator_frequency": 5,
+    "eval_steps": 10,
+    "task_name": "manufacturing_safety_v2",
+    "json_mode": true,
+    "save_dir": "./results/ace_run_20260204_135155_manufacturing_v2_offline",
+    "test_workers": 1
+  }
+}

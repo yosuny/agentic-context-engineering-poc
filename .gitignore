@@ -1,0 +1,29 @@
+
+# System
+.DS_Store
+__pycache__/
+*.pyc
+
+# Environment & Dependencies
+.env
+venv/
+.gemini/
+
+# Agent Workspaces
+brain/
+snapshots/
+
+# Results & Logs
+logs/
+results/*
+!results/final_playbook_v2.txt
+!results/curator_operations_diff.jsonl
+!results/run_config.json
+!results/sample_logs/
+!results/ace_run_20260204_135155_manufacturing_v2_offline/
+!results/ace_run_20260204_135155_manufacturing_v2_offline/ace_run_20260204_135155_manufacturing_safety_v2_offline/final_playbook.txt
+!results/ace_run_20260204_135155_manufacturing_v2_offline/val_results.json
+
+# Workspace Specific
+.vscode/
+GROUND_RULES.md
