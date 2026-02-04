@@ -43,3 +43,9 @@ pip install -r requirements.txt
 # 3. Run Pilot Test
 python experiments/manufacturing_ace_test_v2.py
 ```
+
+## ⚖️ Attribution & License
+This project is based on the **[ACE (Agentic Context Engineering)](https://github.com/ace-agent/ace)** framework.
+*   **Original Source**: [https://github.com/ace-agent/ace](https://github.com/ace-agent/ace)
+*   **License**: Licensed under the Apache License 2.0. See `LICENSE` file for details.
+*   **Modification**: This repository (`agentic-context-engineering-poc`) is a Proof of Concept (PoC) implementation modified to work with **NAVER Cloud HyperCLOVA X (HCX-007)** and includes domain-specific scenarios (Manufacturing Safety).
