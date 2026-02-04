@@ -29,7 +29,8 @@ agentic-context-engineering-poc/
 *   **[최종 검토 의견서 (Final Review)](docs/reports/ACE_FINAL_REVIEW.md)**: 프로젝트의 성과와 비즈니스 가치, 아키텍처 다이어그램 포함.
 *   **[1차 평가 결과](docs/reports/1st_evaluation.md)**: 초기 LOTO 과적합 현상 분석.
 *   **[2차 평가 결과](docs/reports/2nd_evaluation.md)**: 데이터셋 확장을 통한 상황별 분기 능력 검증.
-*   **[개발 로그 (Dev Log)](docs/PROJECT_CONTEXT.md)**: 기술 스택 및 NCloud 연동 상세 기록.
+*   **[NCloud 최적화 가이드](docs/NCLOUD_OPTIMIZATION_GUIDE.md)**: HCX-007 API 연동 기술 상세 (Thinking vs JSON).
+*   **[개발 로그 (Dev Log)](docs/PROJECT_CONTEXT.md)**: 프로젝트 기술 스택 및 진행 이력.
 
 ## 🛠️ Getting Started
 ```bash
